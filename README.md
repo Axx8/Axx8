@@ -1,5 +1,12 @@
 ### Hi Nice to see you.👋
 
+
+<table>
+  <tr>
+    <td>You are visitor</td>
+    <td><img src="https://profile-counter.glitch.me/Axx8/count.svg" alt="" /></td>
+  </tr>
+</table>
 <!--
 **Axx8/Axx8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
